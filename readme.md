@@ -52,10 +52,6 @@ Feel free to expand the themes and kinks by editing:
 
 The generated content aims to be suggestive and playful rather than explicit. The humor comes from the juxtaposition of professional coding terminology with suggestive double entendres.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments
 
 - Inspired by the humor of developer culture
