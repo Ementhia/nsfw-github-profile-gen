@@ -18,8 +18,8 @@ This tool is meant for humor and entertainment purposes only. The generated cont
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/nsfw-github-profile-generator.git
-   cd nsfw-github-profile-generator
+   git clone https://github.com/Ementhia/nsfw-github-profile-gen.git
+   cd nsfw-github-profile-gen
    ```
 
 2. Run the generator:
